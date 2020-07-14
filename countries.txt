@@ -1,2 +1,4 @@
 Mexico
 Denmark
+France
+Spain
