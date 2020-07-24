@@ -1,2 +1,7 @@
 Mexico
 Denmark
+<<<<<<< HEAD
+=======
+France.
+Spain.
+>>>>>>> add_countries
